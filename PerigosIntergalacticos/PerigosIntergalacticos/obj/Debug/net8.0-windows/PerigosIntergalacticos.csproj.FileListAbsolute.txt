@@ -1,0 +1,63 @@
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.exe
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.deps.json
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.runtimeconfig.json
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.dll
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.pdb
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.Form1.resources
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.Properties.Resources.resources
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.csproj.GenerateResource.cache
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.AssemblyInfoInputs.cache
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.AssemblyInfo.cs
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.csproj.CoreCompileInputs.cache
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.dll
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\refint\PerigosIntergalacticos.dll
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.pdb
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.genruntimeconfig.cache
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\ref\PerigosIntergalacticos.dll
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.csproj.AssemblyReference.cache
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosI.5D52C857.Up2Date
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Modelos\Controle.cs
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Modelos\LeituraJSON.cs
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Banco de Dados\Localização.json
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Banco de Dados\Procurados.json
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\DefaultAvatarIcon.jpg
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.MaisInformacoes.resources
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Flapjacket.png
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Santauck.png
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Ryker.png
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Xander.png
+C:\Users\Rea\Documents\Faculdade\Visual Studio 2022 Community\C#\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Leandro.png
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.exe
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Modelos\Controle.cs
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Modelos\LeituraJSON.cs
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Banco de Dados\Localização.json
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Banco de Dados\Procurados.json
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\DefaultAvatarIcon.jpg
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Flapjacket.png
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Leandro.png
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Ryker.png
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Santauck.png
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Imagens\Xander.png
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.deps.json
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.runtimeconfig.json
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.dll
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\PerigosIntergalacticos.pdb
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.csproj.AssemblyReference.cache
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.Form1.resources
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.MaisInformacoes.resources
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.Properties.Resources.resources
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.csproj.GenerateResource.cache
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.AssemblyInfoInputs.cache
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.AssemblyInfo.cs
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.csproj.CoreCompileInputs.cache
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.sourcelink.json
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosI.5D52C857.Up2Date
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.dll
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\refint\PerigosIntergalacticos.dll
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.pdb
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\PerigosIntergalacticos.genruntimeconfig.cache
+C:\Users\Rea\Documents\GitHub\Repositorios\PerigosIntergalacticos\PerigosIntergalacticos\PerigosIntergalacticos\obj\Debug\net8.0-windows\ref\PerigosIntergalacticos.dll

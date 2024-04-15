@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|c:\\users\\rea\\documents\\github\\repositorios\\perigosintergalacticos\\perigosintergalacticos\\perigosintergalacticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|solutionrelative:perigosintergalacticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\perigosintergalacticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|solutionrelative:perigosintergalacticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\perigosintergalacticos\\banco de dados\\procurados.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|solutionrelative:perigosintergalacticos\\banco de dados\\procurados.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\perigosintergalacticos\\banco de dados\\localiza\u00E7\u00E3o.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|solutionrelative:perigosintergalacticos\\banco de dados\\localiza\u00E7\u00E3o.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\perigosintergalacticos\\maisinformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|solutionrelative:perigosintergalacticos\\maisinformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\perigosintergalacticos\\maisinformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|solutionrelative:perigosintergalacticos\\maisinformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\perigosintergalacticos\\modelos\\leiturajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|solutionrelative:perigosintergalacticos\\modelos\\leiturajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\perigosintergalacticos\\modelos\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4014B4C6-8057-4802-AF71-FA0486C3EA6E}|PerigosIntergalacticos\\PerigosIntergalacticos.csproj|solutionrelative:perigosintergalacticos\\modelos\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 939,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Form1.cs",
+              "RelativeDocumentMoniker": "PerigosIntergalacticos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Form1.cs [Projeto]",
+              "RelativeToolTip": "PerigosIntergalacticos\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:47:33.893Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Form1.cs",
+              "RelativeDocumentMoniker": "PerigosIntergalacticos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Form1.cs",
+              "RelativeToolTip": "PerigosIntergalacticos\\Form1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwFgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:08:05.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaisInformacoes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\MaisInformacoes.cs",
+              "RelativeDocumentMoniker": "PerigosIntergalacticos\\MaisInformacoes.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\Faculdade\\Visual Studio 2022 Community\\C#\\PerigosIntergalacticos\\PerigosIntergalacticos\\MaisInformacoes.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Faculdade\\Visual Studio 2022 Community\\C#\\PerigosIntergalacticos\\PerigosIntergalacticos\\MaisInformacoes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:52:15.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaisInformacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\MaisInformacoes.cs",
+              "RelativeDocumentMoniker": "PerigosIntergalacticos\\MaisInformacoes.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\MaisInformacoes.cs",
+              "RelativeToolTip": "PerigosIntergalacticos\\MaisInformacoes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:47:21.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Modelos\\Controle.cs",
+              "RelativeDocumentMoniker": "PerigosIntergalacticos\\Modelos\\Controle.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Modelos\\Controle.cs",
+              "RelativeToolTip": "PerigosIntergalacticos\\Modelos\\Controle.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwEAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T03:18:55.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeituraJSON.cs",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Modelos\\LeituraJSON.cs",
+              "RelativeDocumentMoniker": "PerigosIntergalacticos\\Modelos\\LeituraJSON.cs",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Modelos\\LeituraJSON.cs",
+              "RelativeToolTip": "PerigosIntergalacticos\\Modelos\\LeituraJSON.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAiwFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T03:33:08.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Procurados.json",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Banco de Dados\\Procurados.json",
+              "RelativeDocumentMoniker": "PerigosIntergalacticos\\Banco de Dados\\Procurados.json",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Banco de Dados\\Procurados.json",
+              "RelativeToolTip": "PerigosIntergalacticos\\Banco de Dados\\Procurados.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T18:18:16.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Localiza\u00E7\u00E3o.json",
+              "DocumentMoniker": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Banco de Dados\\Localiza\u00E7\u00E3o.json",
+              "RelativeDocumentMoniker": "PerigosIntergalacticos\\Banco de Dados\\Localiza\u00E7\u00E3o.json",
+              "ToolTip": "C:\\Users\\Rea\\Documents\\GitHub\\Repositorios\\PerigosIntergalacticos\\PerigosIntergalacticos\\PerigosIntergalacticos\\Banco de Dados\\Localiza\u00E7\u00E3o.json",
+              "RelativeToolTip": "PerigosIntergalacticos\\Banco de Dados\\Localiza\u00E7\u00E3o.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T18:52:45.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

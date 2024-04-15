@@ -1,0 +1,68 @@
+[
+  {
+    "RA": "G7862D1",
+    "Nome": "Leandro",
+    "Sobrenome": "Moraes de Souza",
+    "Especie": "Humano",
+    "Idade": 19,
+    "Altura": 1.69,
+    "Peso": 80,
+    "NivelProcurado": "PERIGO",
+    "icone": "Imagens\\Leandro.png"
+  },
+  {
+    "RA": "P2468H7",
+    "Nome": "Santauck",
+    "Sobrenome": "Flazzix",
+    "Especie": "Lishiron",
+    "Idade": 75,
+    "Altura": 3.87,
+    "Peso": 60,
+    "NivelProcurado": "Médio",
+    "icone": "Imagens\\Santauck.png"
+  },
+  {
+    "RA": "C9876J5",
+    "Nome": "Flapjacket",
+    "Sobrenome": "Zogglax",
+    "Especie": "Ivegers",
+    "Idade": 43,
+    "Altura": 1.87,
+    "Peso": 275,
+    "NivelProcurado": "Baixo",
+    "icone": "Imagens\\Flapjacket.png"
+  },
+  {
+    "RA": "H1234K8",
+    "Nome": "Ryker",
+    "Sobrenome": "Orion",
+    "Especie": "Korlon",
+    "Idade": 128,
+    "Altura": 2.14,
+    "Peso": 95,
+    "NivelProcurado": "Médio",
+    "icone": "Imagens\\Ryker.png"
+  },
+  {
+    "RA": "M5678N9",
+    "Nome": "Soraya",
+    "Sobrenome": "Nova",
+    "Especie": "Sintar",
+    "Idade": 34,
+    "Altura": 1.75,
+    "Peso": 60,
+    "NivelProcurado": "Baixo",
+    "icone": ""
+  },
+  {
+    "RA": "V4321W6",
+    "Nome": "Xander",
+    "Sobrenome": "Eclipse",
+    "Especie": "Vorlon",
+    "Idade": 56,
+    "Altura": 2.05,
+    "Peso": 85,
+    "NivelProcurado": "Alto",
+    "icone": "Imagens\\Xander.png"
+  }
+]

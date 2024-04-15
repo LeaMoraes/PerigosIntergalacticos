@@ -1,0 +1,128 @@
+﻿[
+  {
+    "RA": "G7862D1",
+    "ID_Galaxia": "G",
+    "Local_Nascimento": {
+      "Galaxia": "Via Láctea",
+      "Planeta": "Terra",
+      "Pais": "Brasil",
+      "Estado": "São Paulo",
+      "Cidade": "São Roque",
+      "Data": "17-08-2004"
+    },
+    "Ultima_Localização": {
+      "Galaxia": "Via Láctea",
+      "Planeta": "Terra",
+      "Pais": "Brasil",
+      "Estado": "São Paulo",
+      "Cidade": "Sorocaba",
+      "Data": "16-04-2024"
+    }
+  },
+  {
+    "RA": "P2468H7",
+    "ID_Galaxia": "P",
+    "Local_Nascimento": {
+      "Galaxia": "Mosaic",
+      "Planeta": "Manolla",
+      "Pais": "Manada",
+      "Estado": "Meattle",
+      "Cidade": "Mashington",
+      "Data": "163-744"
+    },
+    "Ultima_Localização": {
+      "Galaxia": "Litr",
+      "Planeta": "Desmat",
+      "Pais": "Inibila",
+      "Estado": "Yor",
+      "Cidade": "Bahguri",
+      "Data": "087-840"
+    }
+  },
+  {
+    "RA": "C9876J5",
+    "ID_Galaxia": "C",
+    "Local_Nascimento": {
+      "Galaxia": "Omega Cassiopeia",
+      "Planeta": "Keustea",
+      "Pais": "Aneburg",
+      "Estado": "Dolk",
+      "Cidade": "Fos",
+      "Data": "IOOI-VIOI-IVIO"
+    },
+    "Ultima_Localização": {
+      "Galaxia": "Omega Cassiopeia",
+      "Planeta": "Okie",
+      "Pais": "N/A",
+      "Estado": "N/A",
+      "Cidade": "N/A",
+      "Data": "VVII-OVIV-OOOI"
+    }
+  },
+  {
+    "RA": "H1234K8",
+    "ID_Galaxia": "H",
+    "Local_Nascimento": 
+      {
+        "Galaxia": "Andromeda",
+        "Planeta": "Zentauri",
+        "Pais": "Centauri",
+        "Estado": "Mars",
+        "Cidade": "Alpha",
+        "Data": "12-10-2204"
+      },
+    "Ultima_Localização": 
+      {
+        "Galaxia": "Andromeda",
+        "Planeta": "Zentauri",
+        "Pais": "Centauri",
+        "Estado": "Mars",
+        "Cidade": "Omega",
+        "Data": "21-12-3304"
+      }
+  },
+  {
+    "RA": "M5678N9",
+    "ID_Galaxia": "M",
+    "Local_Nascimento": 
+      {
+        "Galaxia": "Pegasus",
+        "Planeta": "Nova",
+        "Pais": "Celestia",
+        "Estado": "Nova",
+        "Cidade": "Celestial",
+        "Data": "07-03-2109"
+      },
+    "Ultima_Localização": 
+      {
+        "Galaxia": "N/A",
+        "Planeta": "N/A",
+        "Pais": "N/A",
+        "Estado": "N/A",
+        "Cidade": "N/A",
+        "Data": "12-12-2112"
+      }
+  },
+  {
+    "RA": "V4321W6",
+    "ID_Galaxia": "V",
+    "Local_Nascimento": 
+      {
+        "Galaxia": "Vulcano",
+        "Planeta": "Vulturius",
+        "Pais": "Volcania",
+        "Estado": "Vulcânico",
+        "Cidade": "Vulcano",
+        "Data": "03-09-2156"
+      },
+    "Ultima_Localização": 
+      {
+        "Galaxia": "Vulcano",
+        "Planeta": "Vulturius",
+        "Pais": "Volcania",
+        "Estado": "Vulcânico",
+        "Cidade": "Vulcano",
+        "Data": "04-09-2156"
+      }
+  }
+]
